@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+#map {
+    height: calc(100% - 200px);
+    width: calc(100% - 20px);
+    border: 4px solid blue;
+    border-radius: 50px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
