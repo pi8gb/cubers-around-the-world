@@ -22,5 +22,11 @@
     "main": "Sprint Events",
     "latitude": 41.8781,
     "longitude": -87.6298
+  },
+  {
+    "nickname": "ISolveCubes",
+    "main": "Sprint Events",
+    "latitude": 16.0000,
+    "longitude": 121.0000
   }
 ]
