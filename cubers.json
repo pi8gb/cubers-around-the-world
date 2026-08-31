@@ -28,5 +28,11 @@
     "main": "3x3",
     "latitude": 16.0000,
     "longitude": 121.0000
+  },
+  {
+    "nickname": "Overlysimplified",
+    "main": "3x3",
+    "latitude": 40.5759,
+    "longitude": -74.1502
   }
 ]
