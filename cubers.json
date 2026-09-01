@@ -52,5 +52,11 @@
     "main": "All",
     "latitude": 35.4676,
     "longitude": -97.5164
+  },
+  {
+    "nickname": "Feliks Zemdegs",
+    "main": "3x3",
+    "latitude": -37.8136,
+    "longitude": 144.9631
   }
 ]
