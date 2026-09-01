@@ -40,5 +40,11 @@
     "main": "Square-1",
     "latitude": 45.546083,
     "longitude": -75.409217
-  }
+  },
+  {
+    "nickname": "Daruma Cubing",
+    "main": "5x5",
+    "latitude": 33.7490,
+    "longitude": -84.3880
+  },
 ]
