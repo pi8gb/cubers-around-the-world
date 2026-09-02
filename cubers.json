@@ -58,5 +58,11 @@
     "main": "3x3",
     "latitude": -37.8136,
     "longitude": 144.9631
+  },
+  {
+    "nickname": "Cuber Mason",
+    "main": "5x5, Megaminx",
+    "latitude": 33.7173,
+    "longitude": -117.8311
   }
 ]
