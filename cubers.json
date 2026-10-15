@@ -64,5 +64,11 @@
     "main": "5x5, Megaminx",
     "latitude": 33.7173,
     "longitude": -117.8311
+  },
+  {
+    "nickname": "IcyGANCube",
+    "main": "2x2",
+    "latitude": 21.0278,
+    "longitude": 105.8342
   }
 ]
